@@ -5,6 +5,10 @@
 
 获取支持的抵押和借币列表：getReservesList
 获取抵押和借币的配置信息：getReserveData
+解析AaveConfig 对应文档关键词 ：setConfiguration
+
+getReservesList 对应文档关键词 getReservesList
+getReserveData 对应文档关键词 getReserveData
 
 ethers版本 v6
 */
